@@ -1,4 +1,4 @@
 #!/usr/bin/env sh
 . "$(dirname -- "$0")/_/husky.sh"
 
-python -m webbrowser -t "https://yoururl.com"
+start https://pagespeed.web.dev/
